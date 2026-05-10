@@ -1,7 +1,8 @@
-# Physical Security Mobile Robot System
+# H3C Robotics
 
 <p align="center">
-  <b>Team H3C</b>
+  <b>Physical Security Mobile Robot System</b><br>
+  Robotics · Perception · Navigation · Monitoring
 </p>
 
 <p align="center">
