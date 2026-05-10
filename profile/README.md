@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="../docs/team_photo.png" width="750"/>
+  <img src="../docs/team_photo.png" alt="Team H3C" width="100%" style="max-width: 750px;"/>
 </p>
 
 <p align="center">
