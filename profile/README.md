@@ -31,8 +31,10 @@
 
 ## 📌 Featured Repository
 
-- [capston_h3c_integration](https://github.com/H3cRobotics/capston_h3c_integration)
-- [capston_patrol_server](https://github.com/H3cRobotics/capston_patrol_server)
+| Repository | Description |
+|---|---|
+| [capston_h3c_integration](https://github.com/H3cRobotics/capston_h3c_integration) | ROS 2 기반 로봇 통합 레포지토리. 로봇 통신, Robot GUI, Vision, Audio 인지 기능 통합 |
+| [capston_patrol_server](https://github.com/H3cRobotics/capston_patrol_server) | 관제 서버 레포지토리. Backend Server, 이벤트 DB, API, Flutter Web GUI, 실시간 모니터링 기능 제공 |
 
 ---
 
