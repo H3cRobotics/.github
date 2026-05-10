@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="../docs/team_photo.jpg" width="750"/>
+  <img src="../docs/team_photo.png" width="750"/>
 </p>
 
 실내 보안 순찰을 위한 모바일 로봇 통합 시스템입니다.  
