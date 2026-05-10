@@ -8,8 +8,12 @@
   <img src="../docs/team_photo.png" width="750"/>
 </p>
 
-실내 보안 순찰을 위한 모바일 로봇 통합 시스템입니다.  
-하드웨어, SLAM/Navigation, Vision, Audio Event Detection, Backend Server, GUI Frontend를 통합하여 로봇 기반 보안 관제 기능을 제공합니다.
+<p align="center">
+  실내 보안 순찰을 위한 모바일 로봇 통합 시스템입니다.<br>
+  하드웨어, SLAM/Navigation, Vision, Audio Event Detection,<br>
+  Backend Server, GUI Frontend를 통합하여<br>
+  로봇 기반 보안 관제 기능을 제공합니다.
+</p>
 
 ---
 
